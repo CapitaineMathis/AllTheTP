@@ -1,0 +1,553 @@
+[
+  {
+    "fields": {
+      "identifiant": 1,
+      "lieu": "Mus\u00e9e maritime",
+      "information": "https:\/\/www.larochelle.fr\/action-municipale\/ville-connectee\/hotspot-wifi",
+      "in_out": "EN EXTERIEUR",
+      "geojson": {
+        "type": "Point",
+        "coordinates": [
+          -1.151486,
+          46.149821
+        ]
+      },
+      "coordinates": [
+        -1.15149,
+        46.14982
+      ]
+    }
+  },
+  {
+    "fields": {
+      "identifiant": 2,
+      "lieu": "Mus\u00e9e maritime",
+      "information": "https:\/\/www.larochelle.fr\/action-municipale\/ville-connectee\/hotspot-wifi",
+      "in_out": "EN EXTERIEUR",
+      "geojson": {
+        "type": "Point",
+        "coordinates": [
+          -1.151465,
+          46.150398
+        ]
+      },
+      "coordinates": [
+        -1.15147,
+        46.1504
+      ]
+    }
+  },
+  {
+    "fields": {
+      "identifiant": 3,
+      "lieu": "Mus\u00e9e maritime",
+      "information": "https:\/\/www.larochelle.fr\/action-municipale\/ville-connectee\/hotspot-wifi",
+      "in_out": "EN EXTERIEUR",
+      "geojson": {
+        "type": "Point",
+        "coordinates": [
+          -1.150761,
+          46.150177
+        ]
+      },
+      "coordinates": [
+        -1.15076,
+        46.15018
+      ]
+    }
+  },
+  {
+    "fields": {
+      "identifiant": 4,
+      "lieu": "Plage de la Concurrence",
+      "information": "https:\/\/www.larochelle.fr\/action-municipale\/ville-connectee\/hotspot-wifi",
+      "in_out": "EN EXTERIEUR",
+      "geojson": {
+        "type": "Point",
+        "coordinates": [
+          -1.159757,
+          46.154839
+        ]
+      },
+      "coordinates": [
+        -1.15976,
+        46.15484
+      ]
+    }
+  },
+  {
+    "fields": {
+      "identifiant": 5,
+      "lieu": "Place de Verdun",
+      "information": "https:\/\/www.larochelle.fr\/action-municipale\/ville-connectee\/hotspot-wifi",
+      "in_out": "EN EXTERIEUR",
+      "geojson": {
+        "type": "Point",
+        "coordinates": [
+          -1.152847,
+          46.162522
+        ]
+      },
+      "coordinates": [
+        -1.15285,
+        46.16252
+      ]
+    }
+  },
+  {
+    "fields": {
+      "identifiant": 6,
+      "lieu": "Place de Verdun",
+      "information": "https:\/\/www.larochelle.fr\/action-municipale\/ville-connectee\/hotspot-wifi",
+      "in_out": "EN EXTERIEUR",
+      "geojson": {
+        "type": "Point",
+        "coordinates": [
+          -1.153977,
+          46.16239
+        ]
+      },
+      "coordinates": [
+        -1.15398,
+        46.16239
+      ]
+    }
+  },
+  {
+    "fields": {
+      "identifiant": 7,
+      "lieu": "Esplanade du parking du Vieux Port",
+      "information": "https:\/\/www.larochelle.fr\/action-municipale\/ville-connectee\/hotspot-wifi",
+      "in_out": "EN EXTERIEUR",
+      "geojson": {
+        "type": "Point",
+        "coordinates": [
+          -1.149529,
+          46.154883
+        ]
+      },
+      "coordinates": [
+        -1.14953,
+        46.15488
+      ]
+    }
+  },
+  {
+    "fields": {
+      "identifiant": 8,
+      "lieu": "Esplanade du parking du Vieux Port",
+      "information": "https:\/\/www.larochelle.fr\/action-municipale\/ville-connectee\/hotspot-wifi",
+      "in_out": "EN EXTERIEUR",
+      "geojson": {
+        "type": "Point",
+        "coordinates": [
+          -1.149481,
+          46.154107
+        ]
+      },
+      "coordinates": [
+        -1.14948,
+        46.15411
+      ]
+    }
+  },
+  {
+    "fields": {
+      "identifiant": 9,
+      "lieu": "Plage des Minimes",
+      "information": "https:\/\/www.larochelle.fr\/action-municipale\/ville-connectee\/hotspot-wifi",
+      "in_out": "EN EXTERIEUR",
+      "geojson": {
+        "type": "Point",
+        "coordinates": [
+          -1.171312,
+          46.141889
+        ]
+      },
+      "coordinates": [
+        -1.17131,
+        46.14189
+      ]
+    }
+  },
+  {
+    "fields": {
+      "identifiant": 10,
+      "lieu": "Salle de l'Oratoire",
+      "information": "https:\/\/www.larochelle.fr\/action-municipale\/ville-connectee\/hotspot-wifi",
+      "in_out": "EN INTERIEUR",
+      "geojson": {
+        "type": "Point",
+        "coordinates": [
+          -1.151975,
+          46.16351
+        ]
+      },
+      "coordinates": [
+        -1.15197,
+        46.16351
+      ]
+    }
+  },
+  {
+    "fields": {
+      "identifiant": 11,
+      "lieu": "Salle de l'Oratoire",
+      "information": "https:\/\/www.larochelle.fr\/action-municipale\/ville-connectee\/hotspot-wifi",
+      "in_out": "EN INTERIEUR",
+      "geojson": {
+        "type": "Point",
+        "coordinates": [
+          -1.151614,
+          46.163445
+        ]
+      },
+      "coordinates": [
+        -1.15161,
+        46.16345
+      ]
+    }
+  },
+  {
+    "fields": {
+      "identifiant": 15,
+      "lieu": "Parc animalier",
+      "information": "https:\/\/www.larochelle.fr\/action-municipale\/ville-connectee\/hotspot-wifi",
+      "in_out": "EN EXTERIEUR",
+      "geojson": {
+        "type": "Point",
+        "coordinates": [
+          -1.160898,
+          46.157983
+        ]
+      },
+      "coordinates": [
+        -1.1609,
+        46.15798
+      ]
+    }
+  },
+  {
+    "fields": {
+      "identifiant": 16,
+      "lieu": "Salle des f\u00eates de Villeneuve-les-Salines",
+      "information": "https:\/\/www.larochelle.fr\/action-municipale\/ville-connectee\/hotspot-wifi",
+      "in_out": "EN INTERIEUR",
+      "geojson": {
+        "type": "Point",
+        "coordinates": [
+          -1.118425,
+          46.150824
+        ]
+      },
+      "coordinates": [
+        -1.11842,
+        46.15082
+      ]
+    }
+  },
+  {
+    "fields": {
+      "identifiant": 17,
+      "lieu": "Square Valin",
+      "information": "https:\/\/www.larochelle.fr\/action-municipale\/ville-connectee\/hotspot-wifi",
+      "in_out": "EN EXTERIEUR",
+      "geojson": {
+        "type": "Point",
+        "coordinates": [
+          -1.150719,
+          46.157354
+        ]
+      },
+      "coordinates": [
+        -1.15072,
+        46.15735
+      ]
+    }
+  },
+  {
+    "fields": {
+      "identifiant": 18,
+      "lieu": "Camping de Port-Neuf",
+      "information": "https:\/\/www.larochelle.fr\/action-municipale\/ville-connectee\/hotspot-wifi",
+      "in_out": "EN EXTERIEUR",
+      "geojson": {
+        "type": "Point",
+        "coordinates": [
+          -1.183897,
+          46.160753
+        ]
+      },
+      "coordinates": [
+        -1.1839,
+        46.16075
+      ]
+    }
+  },
+  {
+    "fields": {
+      "identifiant": 19,
+      "lieu": "Mus\u00e9um d'Histoire naturelle",
+      "information": "https:\/\/www.larochelle.fr\/action-municipale\/ville-connectee\/hotspot-wifi",
+      "in_out": "EN INTERIEUR",
+      "geojson": {
+        "type": "Point",
+        "coordinates": [
+          -1.151132,
+          46.16479
+        ]
+      },
+      "coordinates": [
+        -1.15113,
+        46.16479
+      ]
+    }
+  },
+  {
+    "fields": {
+      "identifiant": 20,
+      "lieu": "Mus\u00e9e des Beaux-Arts",
+      "information": "https:\/\/www.larochelle.fr\/action-municipale\/ville-connectee\/hotspot-wifi",
+      "in_out": "EN INTERIEUR",
+      "geojson": {
+        "type": "Point",
+        "coordinates": [
+          -1.151679,
+          46.162114
+        ]
+      },
+      "coordinates": [
+        -1.15168,
+        46.16211
+      ]
+    }
+  },
+  {
+    "fields": {
+      "identifiant": 21,
+      "lieu": "Mus\u00e9e du Nouveau Monde",
+      "information": "https:\/\/www.larochelle.fr\/action-municipale\/ville-connectee\/hotspot-wifi",
+      "in_out": "EN INTERIEUR",
+      "geojson": {
+        "type": "Point",
+        "coordinates": [
+          -1.151158,
+          46.161644
+        ]
+      },
+      "coordinates": [
+        -1.15116,
+        46.16164
+      ]
+    }
+  },
+  {
+    "fields": {
+      "identifiant": 22,
+      "lieu": "Camping Le Soleil",
+      "information": "https:\/\/www.larochelle.fr\/action-municipale\/ville-connectee\/hotspot-wifi",
+      "in_out": "EN EXTERIEUR",
+      "geojson": {
+        "type": "Point",
+        "coordinates": [
+          -1.157866,
+          46.150903
+        ]
+      },
+      "coordinates": [
+        -1.15787,
+        46.1509
+      ]
+    }
+  },
+  {
+    "fields": {
+      "identifiant": 23,
+      "lieu": "Maison des associations de Lafond",
+      "information": "https:\/\/www.larochelle.fr\/action-municipale\/ville-connectee\/hotspot-wifi",
+      "in_out": "EN INTERIEUR",
+      "geojson": {
+        "type": "Point",
+        "coordinates": [
+          -1.148981,
+          46.169916
+        ]
+      },
+      "coordinates": [
+        -1.14898,
+        46.16992
+      ]
+    }
+  },
+  {
+    "fields": {
+      "identifiant": 24,
+      "lieu": "Carr\u00e9 Amelot",
+      "information": "https:\/\/www.larochelle.fr\/action-municipale\/ville-connectee\/hotspot-wifi",
+      "in_out": "EN INTERIEUR",
+      "geojson": {
+        "type": "Point",
+        "coordinates": [
+          -1.147915,
+          46.160202
+        ]
+      },
+      "coordinates": [
+        -1.14791,
+        46.1602
+      ]
+    }
+  },
+  {
+    "fields": {
+      "identifiant": 25,
+      "lieu": "Bureau du Vieux Port",
+      "information": "https:\/\/www.larochelle.fr\/action-municipale\/ville-connectee\/hotspot-wifi",
+      "in_out": "EN EXTERIEUR",
+      "geojson": {
+        "type": "Point",
+        "coordinates": [
+          -1.152055,
+          46.156122
+        ]
+      },
+      "coordinates": [
+        -1.15205,
+        46.15612
+      ]
+    }
+  },
+  {
+    "fields": {
+      "identifiant": 26,
+      "lieu": "Arr\u00eat de bus des Dames Blanches",
+      "information": "https:\/\/www.larochelle.fr\/action-municipale\/ville-connectee\/hotspot-wifi",
+      "in_out": "EN EXTERIEUR",
+      "geojson": {
+        "type": "Point",
+        "coordinates": [
+          -1.149603,
+          46.159005
+        ]
+      },
+      "coordinates": [
+        -1.1496,
+        46.159
+      ]
+    }
+  },
+  {
+    "fields": {
+      "identifiant": 27,
+      "lieu": "Place de l'Europe",
+      "information": "https:\/\/www.larochelle.fr\/action-municipale\/ville-connectee\/hotspot-wifi",
+      "in_out": "EN EXTERIEUR",
+      "geojson": {
+        "type": "Point",
+        "coordinates": [
+          -1.179592,
+          46.166509
+        ]
+      },
+      "coordinates": [
+        -1.17959,
+        46.16651
+      ]
+    }
+  },
+  {
+    "fields": {
+      "identifiant": 28,
+      "lieu": "Place du 14 juillet",
+      "information": "https:\/\/www.larochelle.fr\/action-municipale\/ville-connectee\/hotspot-wifi",
+      "in_out": "EN EXTERIEUR",
+      "geojson": {
+        "type": "Point",
+        "coordinates": [
+          -1.124782,
+          46.151509
+        ]
+      },
+      "coordinates": [
+        -1.12478,
+        46.15151
+      ]
+    }
+  },
+  {
+    "fields": {
+      "identifiant": 29,
+      "lieu": "Place du march\u00e9 central",
+      "information": "https:\/\/www.larochelle.fr\/action-municipale\/ville-connectee\/hotspot-wifi",
+      "in_out": "EN EXTERIEUR",
+      "geojson": {
+        "type": "Point",
+        "coordinates": [
+          -1.149165,
+          46.161852
+        ]
+      },
+      "coordinates": [
+        -1.14916,
+        46.16185
+      ]
+    }
+  },
+  {
+    "fields": {
+      "identifiant": 30,
+      "lieu": "Place du march\u00e9 de La Palice",
+      "information": "https:\/\/www.larochelle.fr\/action-municipale\/ville-connectee\/hotspot-wifi",
+      "in_out": "EN EXTERIEUR",
+      "geojson": {
+        "type": "Point",
+        "coordinates": [
+          -1.204877,
+          46.161868
+        ]
+      },
+      "coordinates": [
+        -1.20488,
+        46.16187
+      ]
+    }
+  },
+  {
+    "fields": {
+      "identifiant": 31,
+      "lieu": "Piscine",
+      "information": "https:\/\/www.larochelle.fr\/action-municipale\/ville-connectee\/hotspot-wifi",
+      "in_out": "EN EXTERIEUR",
+      "geojson": {
+        "type": "Point",
+        "coordinates": [
+          -1.153257,
+          46.168968
+        ]
+      },
+      "coordinates": [
+        -1.15326,
+        46.16897
+      ]
+    }
+  },
+  {
+    "fields": {
+      "identifiant": 32,
+      "lieu": "Plage de Chef de Baie",
+      "information": "https:\/\/www.larochelle.fr\/action-municipale\/ville-connectee\/hotspot-wifi",
+      "in_out": "EN EXTERIEUR",
+      "geojson": {
+        "type": "Point",
+        "coordinates": [
+          -1.209154,
+          46.147274
+        ]
+      },
+      "coordinates": [
+        -1.20915,
+        46.14727
+      ]
+    }
+  }
+]
