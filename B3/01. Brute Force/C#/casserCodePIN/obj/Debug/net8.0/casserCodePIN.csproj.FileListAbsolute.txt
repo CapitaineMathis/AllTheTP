@@ -1,0 +1,14 @@
+C:\Users\prioreschim\Downloads\cs\casserCodePIN\casserCodePIN\bin\Debug\net8.0\casserCodePIN.exe
+C:\Users\prioreschim\Downloads\cs\casserCodePIN\casserCodePIN\bin\Debug\net8.0\casserCodePIN.deps.json
+C:\Users\prioreschim\Downloads\cs\casserCodePIN\casserCodePIN\bin\Debug\net8.0\casserCodePIN.runtimeconfig.json
+C:\Users\prioreschim\Downloads\cs\casserCodePIN\casserCodePIN\bin\Debug\net8.0\casserCodePIN.dll
+C:\Users\prioreschim\Downloads\cs\casserCodePIN\casserCodePIN\bin\Debug\net8.0\casserCodePIN.pdb
+C:\Users\prioreschim\Downloads\cs\casserCodePIN\casserCodePIN\obj\Debug\net8.0\casserCodePIN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prioreschim\Downloads\cs\casserCodePIN\casserCodePIN\obj\Debug\net8.0\casserCodePIN.AssemblyInfoInputs.cache
+C:\Users\prioreschim\Downloads\cs\casserCodePIN\casserCodePIN\obj\Debug\net8.0\casserCodePIN.AssemblyInfo.cs
+C:\Users\prioreschim\Downloads\cs\casserCodePIN\casserCodePIN\obj\Debug\net8.0\casserCodePIN.csproj.CoreCompileInputs.cache
+C:\Users\prioreschim\Downloads\cs\casserCodePIN\casserCodePIN\obj\Debug\net8.0\casserCodePIN.dll
+C:\Users\prioreschim\Downloads\cs\casserCodePIN\casserCodePIN\obj\Debug\net8.0\refint\casserCodePIN.dll
+C:\Users\prioreschim\Downloads\cs\casserCodePIN\casserCodePIN\obj\Debug\net8.0\casserCodePIN.pdb
+C:\Users\prioreschim\Downloads\cs\casserCodePIN\casserCodePIN\obj\Debug\net8.0\casserCodePIN.genruntimeconfig.cache
+C:\Users\prioreschim\Downloads\cs\casserCodePIN\casserCodePIN\obj\Debug\net8.0\ref\casserCodePIN.dll

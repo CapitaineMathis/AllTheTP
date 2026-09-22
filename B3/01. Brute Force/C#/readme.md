@@ -1,0 +1,10 @@
+1. Rien du tout
+2. 0.0129780s
+3. 12,978ms
+
+4.
+5. la moyenne sur 500 essay est de : 0.0005000s lol
+
+6. 21.7176451s
+7. 4343,52902s (っ °Д °;)っ
+8. sa devient tout de suite très lent...
