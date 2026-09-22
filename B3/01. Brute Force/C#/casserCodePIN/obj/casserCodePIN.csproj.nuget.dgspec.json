@@ -1,32 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\prioreschim\\Downloads\\cs\\casserCodePIN\\casserCodePIN\\casserCodePIN.csproj": {}
+    "/Volumes/DATA-Mathis/01.RepoGitHubTP/B3/01. Brute Force/C#/casserCodePIN/casserCodePIN.csproj": {}
   },
   "projects": {
-    "C:\\Users\\prioreschim\\Downloads\\cs\\casserCodePIN\\casserCodePIN\\casserCodePIN.csproj": {
+    "/Volumes/DATA-Mathis/01.RepoGitHubTP/B3/01. Brute Force/C#/casserCodePIN/casserCodePIN.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\prioreschim\\Downloads\\cs\\casserCodePIN\\casserCodePIN\\casserCodePIN.csproj",
+        "projectUniqueName": "/Volumes/DATA-Mathis/01.RepoGitHubTP/B3/01. Brute Force/C#/casserCodePIN/casserCodePIN.csproj",
         "projectName": "casserCodePIN",
-        "projectPath": "C:\\Users\\prioreschim\\Downloads\\cs\\casserCodePIN\\casserCodePIN\\casserCodePIN.csproj",
-        "packagesPath": "C:\\Users\\prioreschim\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\prioreschim\\Downloads\\cs\\casserCodePIN\\casserCodePIN\\obj\\",
+        "projectPath": "/Volumes/DATA-Mathis/01.RepoGitHubTP/B3/01. Brute Force/C#/casserCodePIN/casserCodePIN.csproj",
+        "packagesPath": "/Users/mathisprioreschi/.nuget/packages/",
+        "outputPath": "/Volumes/DATA-Mathis/01.RepoGitHubTP/B3/01. Brute Force/C#/casserCodePIN/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\prioreschim\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/mathisprioreschi/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -61,12 +54,26 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[8.0.20, 8.0.20]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.osx-arm64",
+              "version": "[8.0.20, 8.0.20]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[8.0.20, 8.0.20]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.314/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.305/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

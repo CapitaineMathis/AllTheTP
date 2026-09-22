@@ -139,11 +139,6 @@ async function init() {
     // Reload the data in the localStorage, if not fetch (get) a new joke
     if (jokesList.length > 0) {
         jokesList.forEach(joke => renderJoke(joke));
-    } else {
-        const firstJoke = await GetaJoke(API_PATH);
-        jokesList.push(firstJoke);
-        saveJokes(jokesList);
-        renderJoke(firstJoke);
     }
 
     // Event for adding a new Joke

@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "RkxJQagpiuw=",
+  "dgSpecHash": "jA6u+zpbX74=",
   "success": true,
-  "projectFilePath": "C:\\Users\\prioreschim\\Downloads\\cs\\casserCodePIN\\casserCodePIN\\casserCodePIN.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/Volumes/DATA-Mathis/01.RepoGitHubTP/B3/01. Brute Force/C#/casserCodePIN/casserCodePIN.csproj",
+  "expectedPackageFiles": [
+    "/Users/mathisprioreschi/.nuget/packages/microsoft.netcore.app.ref/8.0.20/microsoft.netcore.app.ref.8.0.20.nupkg.sha512",
+    "/Users/mathisprioreschi/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.20/microsoft.aspnetcore.app.ref.8.0.20.nupkg.sha512",
+    "/Users/mathisprioreschi/.nuget/packages/microsoft.netcore.app.host.osx-arm64/8.0.20/microsoft.netcore.app.host.osx-arm64.8.0.20.nupkg.sha512"
+  ],
   "logs": []
 }
