@@ -136,7 +136,7 @@ async function init() {
         ]);
     };
 
-    // Reload the data in the localStorage, if not fetch (get) a new joke
+    // Reload the data in the localStorage
     if (jokesList.length > 0) {
         jokesList.forEach(joke => renderJoke(joke));
     }
