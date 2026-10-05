@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("casserCodePIN")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+11e70c20754e649eb4299dc2a760e3cb04dba7b2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a540f4045e9e142167ccda490a3c7bb16305aaab")]
 [assembly: System.Reflection.AssemblyProductAttribute("casserCodePIN")]
 [assembly: System.Reflection.AssemblyTitleAttribute("casserCodePIN")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
